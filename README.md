@@ -11,6 +11,6 @@ Usage
 ***
 
     make main
-    ./assembler your_program.hack
+    ./assembler your_program.asm
 
 
